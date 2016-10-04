@@ -1,0 +1,40 @@
+{   "name": "korpus",
+    "version": "2.4.4",
+    "author": "K.",
+    "title":"Korpus Lexical",
+    "description": "Dictionary, thesaurus, translation, text-to-speech, bilingual phrase pair and more...",
+    "license": "GNU GPL v3",
+    "main": "lib/main.js",
+    "id": "8aa265c64bc40afd10321076597113cd4a265ccecb9136dfb7fefceb6d9bcd3f@korpuslex",
+    "jsSHA256": "1f3cc97306d60681c65a511f84457fd4e1a9fb2c8001e652554312877516879c",
+    "docsSHA256": null,
+    "icon": "icon.png",
+    "permissions": {
+        "cross-domain-content": ["https://translate.google.com/","http://translate.reference.com/","http://www.oxforddictionaries.com/"]
+    },
+    "permissions": { "private-browsing": true,
+                    "multiprocess": true },
+    "preferences": [],
+    "check_memory": false,
+    "enable_e10s": false,
+    "is-sdk-bundled": true,
+   "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js",
+    "dependencies": {
+        "chrome": "chrome",
+        "sdk/net/xhr": "sdk/net/xhr",
+        "sdk/context-menu": "sdk/context-menu",
+        "sdk/hotkeys": "sdk/hotkeys",
+        "sdk/l10n": "sdk/l10n",
+        "sdk/panel": "sdk/panel",
+        "sdk/self": "sdk/self",
+        "sdk/simple-prefs": "sdk/simple-prefs",
+        "sdk/tabs": "sdk/tabs",
+        "sdk/ui/button/toggle": "sdk/ui/button/toggle",
+        "sdk/page-mod": "sdk/page-mod"
+    },
+    "engines": {
+        "firefox": ">=35"
+    },
+    "staticArgs": {},
+    "verbose": false
+}

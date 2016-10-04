@@ -1,0 +1,207 @@
+{
+    "almaany": {
+        "lang": ["ar # Arabic", "en # English", "es # Spanish", "fa # Farsi", "fr # French", "pt # Portuguese", "tr # Turkish"],
+        "title": "Almaany",
+        "rank": 1
+    },
+    "artfl": {
+        "lang": ["DVLF # Dictionnaire vivant de la langue franÃ§aise", "Rogets # Roget's Int'l Thesaurus (1922)", "OnlineEtym # Etymological dictionaries"],
+        "title": "ARTFL",
+        "rank": 2
+    },
+    "babla": {
+        "lang": ["Arabic-English # ", "Chinese-English # ", "Chinese-German # ", "Czech-English # ", "Danish-English # ", "Dutch-English # ", "English-Arabic # ", "English-Chinese # ", "English-Czech # ", "English-Danish # ", "English-Dutch # ", "English-Finnish # ", "English-French # ", "English-German # ", "English-Hindi # ", "English-Hungarian # ", "English-Indonesian # ", "English-Italian # ", "English-Japanese # ", "English-Korean # ", "English-Norwegian # ", "English-Polish # ", "English-Portuguese # ", "English-Romanian # ", "English-Russian # ", "English-Spanish # ", "English-Swahili # ", "English-Swedish # ", "English-Turkish # ", "Finnish-English # ", "French-English # ", "French-German # ", "French-Italian # ", "French-Spanish # ", "German-Chinese # ", "German-English # ", "German-French # ", "German-Italian # ", "German-Polish # ", "German-Portuguese # ", "German-Russian # ", "German-Spanish # ", "German-Swedish # ", "German-Turkish # ", "Hindi-English # ", "Hungarian-English # ", "Indonesian-English # ", "Italian-English # ", "Italian-French # ", "Italian-German # ", "Italian-Romanian # ", "Italian-Spanish # ", "Japanese-English # ", "Korean-English # ", "Norwegian-English # ", "Polish-English # ", "Polish-German # ", "Portuguese-English # ", "Portuguese-German # ", "Portuguese-Spanish # ", "Romanian-English # ", "Romanian-Italian # ", "Russian-English # ", "Russian-German # ", "Spanish-English # ", "Spanish-French # ", "Spanish-German # ", "Spanish-Italian # ", "Spanish-Portuguese # ", "Swahili-English # ", "Swedish-English # ", "Swedish-German # ", "Turkish-English # ", "Turkish-German # "],
+        "title": "Bab.la", 
+        "rank": 3
+    },
+    "beolingus": {
+        "lang": ["deen # german english dictionary", "deenex # german english example sentences", "dees # german spanish dictionary", "deesex # german spanish example sentences", "dept # german portuguese dictionary", "deptex # german portuguese example sentences", "syn # Synonyms", "quote # Proverbs / aphorisms / quotations"],
+        "title": "Beolingus",
+        "rank": 4
+    },
+    "cedict": {
+        "lang": ["Simplified # Chinese Pinyin English","Traditional # Chinese Pinyin English","Hanzidico # Chinese French English","Jukuu # Phrase pair Chinese English","DVO # All Russian (dvo.ru)","1000pbio # 1000+ biography","abr1w # ","ahiezer # ","beslov # ","biology # Русско-английский биологический словарь","brok_and_efr # ","church # ","compbe # ","dalf # ","deutsch_de-ru # ","deutsch_ru-de # ","devils # THE DEVIL'S DICTIONARY","easton # Easton's 1897 Bible Dictionary","ebrew-Russian #  Hebrew Russion dictionary","elements # Elements database 20001107","ell-eng_strong # English greek dictionary","en-en--ru-ru # Толковые словари английскогорусского языка","estonian_et_ru # Dictionary","foldoc # The Free On-line Dictionary of Computing (13 Mar 01)","gazetteer # U.S. Gazetteer (1990)","geology_ru-en # ","he-ru_ar # ","he-ru_at # ","he-ru_av # ","he-ru_bd # ","he-ru_ch # ","he-ru_cl # ","he-ru_cr # ","he-ru_di # ","he-ru_dr # ","he-ru_ec # ","he-ru_el # ","he-ru_fi # ","he-ru_ha # ","he-ru_hb # ","he-ru_hc # ","he-ru_hd # ","he-ru_he # ","he-ru_hf # ","he-ru_hg # ","he-ru_hl # ","he-ru_hm # ","he-ru_hp # ","he-ru_hs # ","he-ru_ht # ","he-ru_hu # ","he-ru_hw # ","he-ru_hy # ","he-ru_in # ","he-ru_ld # ","he-ru_mt # ","he-ru_ob # ","he-ru_od # ","he-ru_ph # ","he-ru_pi # ","he-ru_pl # ","he-ru_rm # ","he-ru_sh # ","he-ru_ta # ","he-ru_tr # ","he-ru_we # ","heb-eng_strong # Hebrew english dictionary","hitchcock # Hitchcock's Bible Names Dictionary (late 1800's)","idioms # Русско-английский словарь идиом в научной лексике","jargon # Jargon File (4.2.323 NOV 2000)","komi-rus # ","korolew_en-ru # korolew_enru","korolew_ru-en # korolew_ru-en","lat-deu # Latin-German Freedict dictionary","lat-eng # Latin-English Freedict dictionary","latrus # Латинско-русский словарь","magus # ","mech_mime # ","mech_nomime # ","meddict # ","meddict # Медицинский словарь","moby-thesaurus # Moby Thesaurus II by Grady Ward1.0","mueller-abbrev # List of the most common abbreviations","mueller-base # Base dictionary","mueller-dict # Introduction","mueller-geo # List of geographical place-names","mueller-names # List of personal names","muiswerk # ","ozhegov # Толковый словарь Ожегова","ozhshv # Толковый словарь русского языка Ожегова и Шведовой","ru-en--en-ru # Агло-русскиерусско-английские словари","ru-he_ar # ","ru-he_at # ","ru-he_av # ","ru-he_bd # ","ru-he_ch # ","ru-he_cl # ","ru-he_cr # ","ru-he_di # ","ru-he_dr # ","ru-he_ec # ","ru-he_el # ","ru-he_fi # ","ru-he_ha # ","ru-he_hb # ","ru-he_hc # ","ru-he_hd # ","ru-he_he # ","ru-he_hf # ","ru-he_hg # ","ru-he_hl # ","ru-he_hm # ","ru-he_hp # ","ru-he_hs # ","ru-he_ht # ","ru-he_hu # ","ru-he_hw # ","ru-he_hy # ","ru-he_in # ","ru-he_ld # ","ru-he_mt # ","ru-he_ob # ","ru-he_od # ","ru-he_ph # ","ru-he_pi # ","ru-he_pl # ","ru-he_rm # ","ru-he_sh # ","ru-he_ta # ","ru-he_tr # ","ru-he_we # ","Russian-Hebrew # ","Russian-Hebrew_Phrase_book # ","sdict_fi-ru # ","sdict_ru-en # ","sinyagin_abbrev # ","sinyagin_abbrev # sinyagin_abbrev","sinyagin_alexeymavrin # sinyagin_alexeymavrin","sinyagin_business # sinyagin_business","sinyagin_computer # sinyagin_computer","sinyagin_general_er # sinyagin_general_er","sinyagin_general_re # sinyagin_general_re","slovniks # Словники # ","slovnyk_be-en # ","slovnyk_be-pl # ","slovnyk_be-ru # ","slovnyk_be-uk # ","slovnyk_en-be # ","slovnyk_en-pl # ","slovnyk_en-ru # ","slovnyk_en-uk # ","slovnyk_pl-be # ","slovnyk_pl-en # ","slovnyk_pl-ru # ","slovnyk_pl-uk # ","slovnyk_ru-be # ","slovnyk_ru-en # ","slovnyk_ru-pl # ","slovnyk_ru-uk # ","slovnyk_uk-be # ","slovnyk_uk-en # ","slovnyk_uk-pl # ","slovnyk_uk-ru # ","sokrat_en-ru # ","sokrat_ru-en # ","swedish_ru-sv # ","swedish_sv-ru # ","swedish_sv-ru # ","teo # ","ushakov # ","vera # V.E.R.A. -- Virtual Entity of Relevant Acronyms (December 2003)","web1913 # Webster's Revised Unabridged Dictionary (1913)","wn # WordNet (r) 2.0","world95 # The CIA World Factbook (1995)","zhelezyaki_abbr # ","zhelezyaki_analogs # "],
+        "title": "CeDICT",
+        "rank": 5
+    },
+    "chambers": {
+        "lang": ["21st # 21st century dictionary", "thes # Chambers thesaurus (1996)", "biog # Chambers biographical dictionary 1997 ed."],
+        "title": "Chambers dictionary",
+        "rank": 6
+    },
+    "cnrtl": {
+        "lang": ["Lexicographie # TLFi", "Etymologie # TLFi", "CRISCO # Synonyme", "Academie9 # AcadÃ©mie franÃ§aise 9Ã¨me Ã©d.", "Academie8 # AcadÃ©mie franÃ§aise 8Ã¨me Ã©d.", "BHVF # Base Historique du Vocabulaire FranÃ§ais", "DMF # Dictionnaire du Moyen FranÃ§ais (1330-1500)", "Bob # Argot franÃ§ais populaire et familier"],
+        "title": "CNRTL",
+        "rank": 7
+    },
+    "collins": {
+        "lang": ["American # Dictionary", "English # Dictionary", "English-French # ", "English-German # ", "English-Italian # ", "English-Spanish # ", "French-English # ", "German-English # ", "Italian-English # ", "Spanish-English # "],
+        "title": "Collins",
+        "rank": 8
+    },
+    "dictcc": {
+        "lang": ["debg # German Bulgarian", "debs # German Bosnian", "decs # German Czech", "deda # German Danish", "deel # German Greek", "deen # German English", "deeo # German Esperanto", "dees # German Spanish", "defi # German Finnish", "defr # German French", "dehr # German Croatian", "dehu # German Ungarian", "deis # German Icelandic", "deit # German Italian", "dela # German Latein", "denl # German Dutch", "deno # German Norwegian", "depl # German Polish", "dept # German Portuguese", "dero # German Romanian", "deru # German Russian", "desk # German Slovak", "desq # German Albanian", "desr # German Serbian", "desv # German Swedish", "detr # German Turkish", "enbg # English Bulgarian", "enbs # English Bosnian", "encs # English Czech", "enda # English Danish", "ende # English German", "enel # English Greek", "eneo # English Esperanto", "enes # English Spanish", "enfi # English Finnish", "enfr # English French", "enhr # English Croatian", "enhu # English Hungarian", "enis # English Icelandic", "enit # English Italian", "enla # English Latin", "ennl # English Dutch", "enno # English Norwegian", "enpl # English Polish", "enpt # English Portuguese", "enro # English Romanian", "enru # English Russian", "ensk # English Slovak", "ensq # English Albanian", "ensr # English Serbian", "ensv # English Swedish", "entr # English Turkish", "frde # French German"],
+        "title": "DictCC",
+        "rank": 9
+    },
+    "dictionarycom": {
+        "lang": ["Dictionary # ", "Thesaurus # ","Arabic # Translate","Bulgarian # Translate","Catalan # Translate","Chinese-Simplified # Translate","Chinese-Traditional # Translate","Creole # Translate","Czech # Translate","Danish # Translate","Dutch # Translate","English # Translate","Estonian # Translate","Finnish # Translate","French # Translate","German # Translate","Greek # Translate","Haitian-Creole # Translate","Hebrew # Translate","Hindi # Translate","Hungarian # Translate","Indonesian # Translate","Italian # Translate","Japanese # Translate","Korean # Translate","Latvian # Translate","Lithuanian # Translate","Malay # Translate","Maltese # Translate","Norwegian # Translate","Persian # Translate","Polish # Translate","Portuguese # Translate","Romanian # Translate","Russian # Translate","Slovak # Translate","Slovenian # Translate","Spanish # Translate","Swedish # Translate","Thai # Translate","Turkish # Translate","Ukrainian # Translate","Urdu # Translate","Vietnamese # Translate","Welsh # Translate"],
+        "title": "DictionaryCom",
+        "rank": 10
+    },
+    "leodict": {
+        "lang": ["chde # Chinese German", "ende # English German", "esde # Spanish German", "frde # French German", "itde # Italian German", "plde # Polish German", "ptde # Portuguese German", "rude # Russian German"],
+        "title": "LEODict",
+        "rank": 11
+    },
+    "duden": {
+        "lang": [" # "],
+        "title": "Duden",
+        "rank": 12
+    },
+    "dwds": {
+        "lang": [" # "],
+        "title": "DWDS (Das Digitale WÃ¶rterbuch der deutschen Sprache)",
+        "rank": 13
+    },
+    "eurovoc": {
+        "lang": ["bg # (bg) ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸", "cs # (cs) ÄeÅ¡tina", "da # (da) Dansk", "de # (de) Deutsch", "el # (el) ÎÎ»Î»Î·Î½Î¹ÎºÎ¬", "en # (en) English", "es # (es) EspaÃ±ol", "et # (et) Eesti", "fi # (fi) Suomi", "fr # (fr) FranÃ§ais", "hr # (hr) Hrvatski", "hu # (hu) Magyar", "it # (it) Italiano", "lt # (lt) LietuviÅ³", "lv # (lv) LatvieÅ¡u", "mt # (mt) Malti", "nl # (nl) Nederlands", "pl # (pl) Polski", "pt # (pt) PortuguÃªs", "ro # (ro) RomÃ¢nÄ", "sk # (sk) SlovenÄina", "sl # (sl) SlovenÅ¡Äina", "sr # (sr) Ð¡ÑÐ¿ÑÐºÐ¸", "sv # (sv) Svenska"],
+        "title": "EuroVoc",
+        "rank": 14
+    },
+    "googletranslate": {
+        "lang": ["af # Afrikaans Afrikaans", "ar # Arabic Ø¹Ø±Ø¨Ù", "az # Azerbaijani Ø¢Ø°Ø±Ø¨Ø§ÛØ¬Ø§Ù Ø¯ÛÙÛ", "be # Belarusian ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ", "bg # Bulgarian ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸", "ca # Catalan CatalÃ ", "cs # Czech ÄeÅ¡tina", "cy # Welsh Cymraeg", "da # Danish Dansk", "de # German Deutsch", "el # Greek ÎÎ»Î»Î·Î½Î¹ÎºÎ¬", "en # English English", "en-au # English (Australia)","en-uk # English (United Kingdom)","en-us # English (United States)","eo # Esperanto", "es # Spanish EspaÃ±ol", "es-es # Spanish (Spain)", "es-us # Spanish (United States)", "et # Estonian Eesti keel", "eu # Basque Euskara", "fa # Persian ÙØ§Ø±Ø³Û", "fi # Finnish Suomi", "fr # French FranÃ§ais", "ga # Irish Gaeilge", "gl # Galician Galego", "hi # Hindi à¤¹à¤¿à¤¨à¥à¤¦à¥", "hr # Croatian Hrvatski", "ht # Haitian Creole KreyÃ²l ayisyen", "hu # Hungarian Magyar", "hy # Armenian ÕÕ¡ÕµÕ¥ÖÕ§Õ¶", "id # Indonesian Bahasa Indonesia", "is # Icelandic Ãslenska", "it # Italian Italiano", "iw # Hebrew ×¢××¨××ª", "ja # Japanese æ¥æ¬èª", "ka # Georgian á¥áá áá£áá", "ko # Korean íêµ­ì´", "la # Latin", "lt # Lithuanian LietuviÅ³ kalba", "lv # Latvian LatvieÅ¡u", "mk # Macedonian ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸", "ms # Malay Malay", "mt # Maltese Malti", "nl # Dutch Nederlands", "no # Norwegian Norsk", "pl # Polish Polski", "pt # Portuguese PortuguÃªs", "pt-br # Portuguese (Brazil)", "ro # Romanian RomÃ¢nÄ", "ru # Russian Ð ÑÑÑÐºÐ¸Ð¹", "sk # Slovak SlovenÄina", "sl # Slovenian Slovensko", "sq # Albanian Shqip", "sr # Serbian Ð¡ÑÐ¿ÑÐºÐ¸", "sv # Swedish Svenska", "sw # Swahili Kiswahili", "th # Thai à¹à¸à¸¢", "ta # Tamil", "tl # Filipino Filipino", "tr # Turkish TÃ¼rkÃ§e", "uk # Ukrainian Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°", "ur # Urdu Ø§Ø±Ø¯Ù", "vi # Vietnamese Tiáº¿ng Viá»t", "yi # Yiddish ××Ö´×××©", "zh # Chinese", "zh-cn # Chinese (Mandarin/China, simplified) ä¸­æç®ä½", "zh-tw # Chinese (Mandarin/Taiwan, traditional) ä¸­æç¹é«","zh-yue # Chinese (Cantonese)"],
+        "title": "Google translate",
+        "rank": 15
+    },
+    "iate": {
+        "lang": ["bg # Bulgarian", "cs # Czech", "da # Danish", "de # German", "el # Greek", "en # English", "es # Spanish", "et # Estonian", "fi # Finnish", "fr # French", "ga # Irish", "hr # Croatian", "hu # Hungarian", "it # Italian", "la # Latin", "lt # Lithuanian", "lv # Latvian", "mt # Maltese", "nl # Dutch", "pl # Polish", "pt # Portuguese", "ro # Romanian", "sk # Slovak", "sl # Slovenian", "sv # Swedish"],
+        "title": "IATE",
+        "rank": 16
+    },
+    "ispeech": {
+        "lang": ["arabicmale # Arabic Male Ø¹Ø±Ø¨Ù","auenglishfemale # AU English Female","brportuguesefemale # BR Portuguese Female","caenglishfemale # Canadian English Female","cafrenchfemale # CA French Female","cafrenchmale # CA French Male","chchinesefemale # Chinese Female ä¸­æç®ä½","chchinesemale # Chinese Male ä¸­æç®ä½","eurcatalanfemale # Catalan Female","eurczechfemale # Czech Female","eurdanishfemale # Danish Female","eurdutchfemale # Dutch Female","eurfinnishfemale # Finnish Female","eurfrenchfemale # French Female","eurfrenchmale # French Male","eurgermanfemale # German Female","eurgermanmale # German Male","eurgreekfemale # Greek Female ÎÎ»Î»Î·Î½Î¹ÎºÎ¬","euritalianfemale # Italian Female","euritalianmale # Italian Male","eurnorwegianfemale # Norweigian Female","eurpolishfemale # Polish Female","eurportuguesefemale # Portuguese Female","eurportuguesemale # Portuguese Male","eurspanishfemale # Spanish Female","eurspanishmale # Spanish Male","eurturkishfemale # Turkish Female","eurturkishmale # Turkish Male","hkchinesefemale # HK Cantonese Female","huhungarianfemale # Hungarian Female","jpjapanesefemale # Japanese Female æ¥æ¬èª","jpjapanesemale # Japanese Male æ¥æ¬èª","krkoreanfemale # Korean Female íêµ­ì´","krkoreanmale # Korean Male íêµ­ì´","rurussianfemale # Russian Female Ð ÑÑÑÐºÐ¸Ð¹","rurussianmale # Russian Male Ð ÑÑÑÐºÐ¸Ð¹","swswedishfemale # Swedish Female","twchinesefemale # TW Chinese Female ä¸­æç¹é«","ukenglishfemale # UK English Female","ukenglishmale # UK English Male","usenglishfemale # US English Female","usenglishmale # US English Male","usspanishfemale # US Spanish Female","usspanishmale # US Spanish Male"],
+        "title": "ISpeech",
+        "rank": 17
+    },
+    "larousse": {
+        "lang": [" # "],
+        "title": "Larousse",
+        "rank": 18
+    },
+    "linguatec": {
+        "lang": ["ENG # English (British)", "FRF # French FranÃ§ais", "GED # German Deutsch", "ITI # Italian Italiano", "PTP # Portuguese PortuguÃªs", "SPE # Spanish EspaÃ±ol"],
+        "title": "Linguatec",
+        "rank": 19
+    },
+    "linguee": {
+        "lang": ["Chinese-English # ", "Deutsch-Franzoesisch # ", "Deutsch-Portugiesisch # ", "Deutsch-Spanisch # ", "Dutch-English # ", "English-Chinese # ", "English-Dutch # ", "English-French # ", "English-German # ", "English-Italian # ", "English-Japanese # ", "English-Polish # ", "English-Portuguese # ", "English-Russian # ", "English-Spanish # ", "Espanol-Aleman # ", "Espanol-Frances # ", "Espanol-Portugues # ", "Francais-Allemand # ", "Francais-Espagnol # ", "Francais-Portugais # ", "French-English # ", "German-English # ", "Italian-English # ", "Japanese-English # ", "Polish-English # ", "Portugues-Alemao # ", "Portugues-Espanhol # ", "Portugues-Frances # ", "Portuguese-English # ", "Russian-English # ", "Spanish-English # "],
+        "title": "Linguee",
+        "rank": 20
+    },
+    "littre": {
+        "lang": ["#  Ed. 1872-1877"],
+        "title": "LittrÃ©",
+        "rank": 21
+    },
+    "memidex": {
+        "lang": [" # "],
+        "title": "Memidex",
+        "rank": 22
+    },
+    "merriamwebster": {
+        "lang": ["Dictionary # ", "Thesaurus # ", "Spanish # MW English-Spanish"],
+        "title": "Merriam-Webster",
+        "rank": 23
+    },
+    "oxforddictionaries": {
+        "lang": ["american_english # US English", "american_english-thesaurus # US English synonyms", "arabic-english # Arabic-English", "chinese-english # Chinese-English", "english # British and World English", "english-arabic # English-Arabic", "english-chinese # English-Chinese", "english-french # English-French", "english-german # English-German", "english-italian # English-Italian", "english-portuguese # English-Portuguese", "english-russian # English-Russian", "english-spanish # English-Spanish", "english-thesaurus # English synonyms", "french-english # French-English", "german-english # German-English", "italian-english # Italian-English", "portuguese-english # Portuguese-English", "russian-english # Russian-English", "spanish # Spanish", "spanish-english # Spanish-English"],
+        "title": "Oxford dictionaries",
+        "rank": 24
+    },
+    "pons": {
+        "lang": ["czde # Czech German", "decs # German Czech", "deda # German Danish", "deel # German Greek", "deen # German English", "dees # German Spanish", "defr # German French", "dehu # German Hungarian", "deit # German Italian", "dela # German Latin", "denl # German Dutch", "deno # German Norwegian", "depl # German Polish", "dept # German Portuguese", "deru # German Russian", "desl # German Slovenian", "desv # German Swedish", "detr # German Turkish", "dezh # German Chinese", "dnde # Danish German", "elde # Greek German", "ende # English German", "enes # English Spanish", "enfr # English French", "enit # English Italian", "enpl # English Polish", "enpt # English Portuguese", "enru # English Russian", "ensl # English Slovenian", "enzh # English Chinese", "esde # Spanish German", "esen # Spanish English", "esfr # Spanish French", "espl # Spanish Polish", "espt # Spanish Portuguese", "essl # Spanish Slovenian", "fren # French English", "fres # French Spanish", "frpl # French Polish", "frsl # French Slovenian", "hude # Hungarian German", "itde # Italian German", "iten # Italian English", "itpl # Italian Polish", "itsl # Italian Slovenian", "lade # Latin German", "nlde # Dutch German", "node # Norwegian German", "plde # Polish German", "plen # Polish English", "ples # Polish Spanish", "plfr # Polish French", "plit # Polish Italian", "plru # Polish Russian", "ptde # Portuguese German", "pten # Portuguese English", "ptes # Portuguese Spanish", "rude # Russian German", "ruen # Russian English", "rupl # Russian Polish", "slde # Slovenian German", "slde # Slovenian German", "slen # Slovenian English", "sles # Slovenian Spanish", "slfr # Slovenian French", "slit # Slovenian Italian", "trde # Turkish German", "zhde # Chinese German", "zhen # Chinese English"],
+        "title": "PONS",
+        "rank": 25
+    },
+    "raes": {
+        "lang": ["DLE # Diccionario de la lengua espaÃ±ola (RAEs)", "DPD # Diccionario panhispÃ¡nico de dudas (RAEs)", "DESEN # Diccionario esencial (RAEs)","Castellano # (Santillana)","Etimologias # Diccionario etimolÃ³gico","SinAnt # SinÃ³nimos-AntÃ³nimos (Santillana)","EsIn # espaÃ±ol-inglÃ©s (Santillana)","InEs # inglÃ©s-espaÃ±ol (Santillana)","Lar1 # espaÃ±ol CatalÃ¡n Larousse-Vox","Lar2 # espaÃ±ol CatalÃ¡n inglÃ©s Larousse-Vox","Lar3 # espaÃ±ol CatalÃ¡n FrancÃ©s Larousse-Vox","Lar4 # EspaÃ±ol AlemÃ¡n Larousse-Vox"],
+        "title": "Real Academia EspaÃ±ola",
+        "rank": 26
+    },
+    "reverso": {
+        "lang": ["Arabic-English # ", "Arabic-French # ", "English-Arabic # ", "English-French # ", "English-German # ", "English-Italian # ", "English-Portuguese # ", "English-Spanish # ", "French-Arabic # ", "French-English # ", "French-German # ", "French-Italian # ", "French-Portuguese # ", "French-Spanish # ", "German-English # ", "German-French # ", "Italian-English # ", "Italian-French # ", "Portuguese-English # ", "Portuguese-French # ", "Portuguese-Spanish # ", "Spanish-English # ", "Spanish-French # ", "Spanish-Portuguese # ", "Voice Mehdi22k # Arabic", "Voice Klaus22k # German", "Voice Heather22k # English", "Voice Maria22k # Spanish", "Voice Bruno22k # French", "Voice Chiara22k # Italian", "Voice Sakura22k # Japanese", "Voice Femke22k # Dutch", "Voice Celia22k # Portuguese", "Voice Alyona22k # Russian", "Voice Lulu22k # Chinese"],
+        "title": "Reverso context",
+        "rank": 27
+    },
+    "thefreedictionary": {
+        "lang": ["ar # Arabic", "de # Deutsch", "el # Greek", "en # English", "es # Spanish", "fr # French", "nl # Dutch", "no # Norwegian", "pl # Polish", "pt # Portuguese", "ru # Russian", "tr # Turkish", "zh # Chinese"],
+        "title": "TheFreeDictionary",
+        "rank": 28
+    },
+    "urbandictionary": {
+        "lang": ["# "],
+        "title": "Urban Dictionary",
+        "rank": 29
+    },
+    "wordreference": {
+        "lang": ["enen # English dictionary","eses # Spanish dictionary","caca # Catalan dictionary","definizione # Italian dictionary","aren # Arabic English", "czen # Czech English", "deen # German English", "enar # English Arabic", "encz # English Czech", "ende # English German", "enes # English Spanish", "enfr # English French", "engr # English Greek", "enit # English Italian", "enja # English Japanese", "enko # English Korean", "enpl # English Polish", "enpt # English Portuguese", "enro # English Romanian", "enru # English Russian", "enthe # English thesaurus", "entr # English Turkish", "enzh # English Chinese", "esen # Spanish English", "esfr # Spanish French", "espt # Spanish Portuguese", "essin # Spanish synonyms", "fren # French English", "fres # French Spanish", "gren # Greek English", "iten # Italian English", "jaen # Japanese English", "koen # Korean English", "plen # Polish English", "pten # Portuguese English", "ptes # Portuguese Spanish", "roen # Romanian English", "ruen # Russian English", "tren # Turkish English", "zhen # Chinese English"],
+        "title": "WordReference",
+        "rank": 30
+    },
+    "wortschatzunileipzig": {
+        "lang": ["abk_wikipedia_2012 # Abkhazian","ach_newscrawl_2011 # Acoli","afr_mixed_2013 # Afrikaans","aka_wikipedia_2012 # Akan","sqi_newscrawl_2011 # Albanian","amh_wikipedia_2011 # Amharic","arg_wikipedia_2011 # Aragonese","hye_newscrawl_2011 # Armenian","asm_wikipedia_2012 # Assamese","aii_wikipedia_2012 # Assyrian Neo-Aramaic","ast_wikipedia_2011 # Asturian","ava_wikipedia_2012 # Avaric","aze_newscrawl_2011 # Azerbaijani","bam_wikipedia_2012 # Bambara","bjn_wikipedia_2012 # Banjar","bak_wikipedia_2011 # Bashkir","eus_web_2002 # Basque","bar_wikipedia_2012 # Bavarian","bel_newscrawl_2011 # Belarusian","ben_newscrawl_2011 # Bengali","bpy_wikipedia_2011 # Bishnupriya","bre_wikipedia_2007 # Breton","bul_newscrawl_2011 # Bulgarian","bua_wikipedia_2012 # Buriat","cat_web_2004 # Catalan","ceb_wikipedia_2011 # Cebuano","bcl_wikipedia_2011 # Central Bikol","khm_newscrawl_2011 # Central Khmer","cbk_wikipedia_2012 # Chavacano","che_wikipedia_2012 # Chechen","chr_wikipedia_2012 # Cherokee","chv_wikipedia_2011 # Chuvash","cor_wikipedia_2012 # Cornish","cos_wikipedia_2011 # Corsican","crh_wikipedia_2012 # Crimean Tatar","hrv_newscrawl_2011 # Croatian","ces_mixed_2012 # Czech","dan_web_2002 # Danish","div_newscrawl_2011 # Dhivehi","diq_wikipedia_2011 # Dimli","nld_web_2002 # Dutch","mhr_wikipedia_2012 # Eastern Mari","arz_wikipedia_2011 # Egyptian Arabic","eml_wikipedia_2012 # Emiliano-Romagnolo","eng_news_2012 # English","epo_mixed_2012 # Esperanto","est_news # Estonian","fao_newscrawl_2011 # Faroese","hif_wikipedia_2011 # Fiji Hindi","fij_newscrawl_2011 # Fijian","fin_web_2002 # Finnish","fra_mixed_2012 # French","fur_wikipedia_2012 # Friulian","ful_wikipedia_2012 # Fulah","gag_wikipedia_2012 # Gagauz","glg_wikipedia_2012 # Galician","lug_newscrawl_2013 # Ganda","kat_newscrawl_2011 # Georgian","deu_newscrawl_2011 # German","glk_wikipedia_2011 # Gilaki","gom_newscrawl_2011 # Goan Konkani","grn_wikipedia_2012 # Guarani","guj_newscrawl_2011 # Gujarati","hat_wikipedia_2011 # Haitian","hau_newscrawl_2011 # Hausa","heb_wikipedia_2010 # Hebrew","hin_news_2011 # Hindi","hun_newscrawl_2011 # Hungarian","isl_web_2005 # Icelandic","ido_wikipedia_2007 # Ido","ilo_web_2012 # Iloko","ind_mixed_2013 # Indonesian","ina_wikipedia_2011 # Interlingua","ile_wikipedia_2012 # Interlingue","gle_wikipedia_2012 # Irish","jav_wikipedia_2011 # Javanese","ksh_wikipedia_2012 # Kölsch","kbd_wikipedia_2012 # Kabardian","kab_wikipedia_2012 # Kabyle","kal_newscrawl_2011 # Kalaallisut","xal_wikipedia_2012 # Kalmyk","kan_wikipedia_2011 # Kannada","kaa_wikipedia_2012 # Kara-Kalpak","krc_wikipedia_2012 # Karachay-Balkar","csb_wikipedia_2012 # Kashubian","kaz_wikipedia_2010 # Kazakh","kir_newscrawl_2011 # Kirghiz","tlh_wikia_2011 # Klingon","kom_wikipedia_2012 # Komi","knn_web_2012 # Konkani","kor_newscrawl_2011 # Korean","kur_newscrawl_2011 # Kurdish","lad_wikipedia_2012 # Ladino","lbe_wikipedia_2012 # Lak","lao_newscrawl_2011 # Lao","ltg_wikipedia_2012 # Latgalian","lat_wikipedia_2007 # Latin","lav_wikipedia_2007 # Latvian","lij_wikipedia_2012 # Ligurian","lim_wikipedia_2012 # Limburgan","lin_wikipedia_2012 # Lingala","lit_newscrawl_2011 # Lithuanian","nds_wikipedia_2012 # Low German","dsb_wikipedia_2012 # Lower Sorbian","lus_newscrawl_2011 # Lushai","ltz_wikipedia_2007 # Luxembourgish","rup_wikipedia_2012 # Macedo-Romanian","mkd_wikipedia_2010 # Macedonian","mlg_web_2012 # Malagasy","msa_newscrawl_2011 # Malay","mal_newscrawl_2011 # Malayalam","mlt_newscrawl_2011 # Maltese","glv_wikipedia_2012 # Manx","mri_web_2011 # Maori","mar_news_2010 # Marathi","cdo_wikipedia_2012 # Min Dong Chinese","nan_wikipedia_2011 # Min Nan Chinese","xmf_wikipedia_2012 # Mingrelian","mwl_wikipedia_2012 # Mirandese","ell_newscrawl_2011 # Modern Greek","mdf_wikipedia_2012 # Moksha","mon_news_2011 # Mongolian","nah_wikipedia_2011 # Nahuatl","nav_wikipedia_2012 # Navajo","nep_news_2010 # Nepali","new_wikipedia_2009 # Newari","frr_wikipedia_2012 # Northern Frisian","sme_wikipedia_2012 # Northern Sami","nob_web_2002 # Norwegian Bokmål","nno_wikipedia_2007 # Norwegian Nynorsk","nov_wikipedia_2012 # Novial","oci_wikipedia_2007 # Occitan","ang_wikipedia_2012 # Old English","non_web_2012 # Old Norse","ori_wikipedia_2012 # Oriya","orm_wikipedia_2012 # Oromo","oss_wikipedia_2011 # Ossetian","pam_wikipedia_2011 # Pampanga","pag_wikipedia_2012 # Pangasinan","pan_newscrawl_2011 # Panjabi","pap_newscrawl_2011 # Papiamento","pdc_wikipedia_2007 # Pennsylvania German","fas_newscrawl_2011 # Persian","pcd_wikipedia_2012 # Picard","pms_wikipedia_2011 # Piemontese","pol_newscrawl_2011 # Polish","pus_newscrawl_2011 # Pushto","ron_newscrawl_2011 # Romanian","roh_newscrawl_2011 # Romansh","rom_wikipedia_2012 # Romany","rus_mixed_2013 # Russian","rus_wikipedia_2011 # Russian","rue_wikipedia_2010 # Rusyn","smi_newscrawl_2011 # Sami","smo_wikipedia_2012 # Samoan","sgs_wikipedia_2011 # Samogitian","san_newscrawl_2011 # Sanskrit","srd_wikipedia_2012 # Sardinian","sco_wikipedia_2011 # Scots","gla_wikipedia_2007 # Scottish Gaelic","srp_wikipedia_2010 # Serbian","scn_wikipedia_2011 # Sicilian","szl_wikipedia_2012 # Silesian","snd_wikipedia_2012 # Sindhi","sin_wikipedia_2011 # Sinhala","slk_newscrawl_2011 # Slovak","slv_newscrawl_2011 # Slovenian","som_newscrawl_2011 # Somali","sot_web_2012 # Southern Sotho","spa_newscrawl_2011 # Spanish","sun_wikipedia_2007 # Sundanese","swa_newscrawl_2011 # Swahili","swh_wikipedia_2011 # Swahili","swe_web_2002 # Swedish","gsw_wikipedia_2012 # Swiss German","tgl_newscrawl_2011 # Tagalog","tgk_newscrawl_2011 # Tajik","ten_wikipedia_2012 # Tama ","tam_newscrawl_2011 # Tamil","tat_mixed_2015 # Tatar","tel_newscrawl_2011 # Telugu","tet_wikipedia_2012 # Tetum","tha_newscrawl_2011 # Thai","bod_wikipedia_2012 # Tibetan","tir_wikipedia_2012 # Tigrinya","tpi_newscrawl_2011 # Tok Pisin","ton_wikipedia_2012 # Tonga ","tsn_web_2013 # Tswana","tur_news_2005 # Turkish","udm_wikipedia_2012 # Udmurt","uig_newscrawl_2011 # Uighur","ukr_mixed_2014 # Ukrainian","hsb_mixed_2012 # Upper Sorbian","urd_news_2007 # Urdu","ven_wikipedia_2012 # Venda","vec_wikipedia_2011 # Venetian","vie_mixed_2014 # Vietnamese","vls_wikipedia_2012 # Vlaams","wln_wikipedia_2012 # Walloon","war_wikipedia_2011 # Waray ","cym_wikipedia_2007 # Welsh","gaz_web_2012 # West Central Oromo","fry_newscrawl_2011 # Western Frisian","mrj_wikipedia_2011 # Western Mari","pnb_wikipedia_2011 # Western Panjabi","wol_wikipedia_2012 # Wolof","sah_wikipedia_2011 # Yakut","yid_wikipedia_2011 # Yiddish","yor_wikipedia_2011 # Yoruba","zea_wikipedia_2012 # Zeeuws","zha_wikipedia_2012 # Zhuang","zho-simp_news_2010 # Chinese","zul_mixed_2014 # Zulu"],
+        "title": "Wortschatz Uni-Leipzig",
+        "rank": 31
+    },
+    "woxikon": {
+        "lang": ["Deutsch-Englisch # English", "Deutsch-Finnisch # Finnish", "Deutsch-Franzoesisch # French", "Deutsch-Italienisch # Italian", "Deutsch-Niederlaendisch # Dutch", "Deutsch-Norwegisch # Norwegian", "Deutsch-Polnisch # Polish", "Deutsch-Portugiesisch # Portuguese", "Deutsch-Russisch # Russian", "Deutsch-Schwedisch # Swedish", "Deutsch-Spanish # Spanish", "Deutsch-Tuerkisch # Turkish"],
+        "title": "Woxikon",
+        "rank": 32
+    },
+    "responsivevoiceorg": {
+        "lang": ["UK English Female # ","UK English Male # ","US English Female # ","US English Male # ","Arabic Male # ","Armenian Male # ","Australian Female # ","Brazilian Portuguese Female # ","Portuguese Female # ","Chinese Female # ","Czech Female # ","Czech Male # ","Danish Female # ","Danish Male # ","Deutsch Female # ","Dutch Female # ","Finnish Female # ","Finnish Male # ","French Female # ","Greek Female # ","Greek Male # ","Hatian Creole Female # ","Hindi Female # ","Hungarian Female # ","Hungarian Male # ","Indonesian Female # ","Italian Female # ","Japanese Female # ","Korean Female # ","Latin Female # ","Latin Male # ","Spanish Female # ","Spanish Latin American Female # ","Norwegian Female # ","Norwegian Male # ","Polish Female # ","Romanian Male # ","Russian Female # ","Slovak Female # ","Slovak Male # ","Swedish Female # ","Swedish Male # ","Tamil Male # ","Thai Female # ","Turkish Female # ","Afrikaans Male # ","Albanian Male # ","Bosnian Male # ","Catalan Male # ","Croatian Male # ","Esperanto Male # ","Icelandic Male # ","Latvian Male # ","Macedonian Male # ","Moldavian Male # ","Montenegrin Male # ","Serbian Male # ","Swahili Male # ","Vietnamese Male # ","Welsh Male # ","Fallback UK Female # "],
+        "title": "ResponsiveVoiceOrg",
+        "rank": 33
+    },
+    "triantafyllides": {
+        "lang": ["Triantafyllides # Dictionary of Standard Modern Greek","Georgakas # Greek-English Dictionary","Reverse # Reverse Index (Anastasiadi-Symeonidi)","All # (Combined search)"],
+        "title": "Triantafyllides",
+        "rank": 34
+    },
+    "gramota": {
+        "lang": [" # "],
+        "title": "Gramota",
+        "rank": 35
+    },
+    "dsal": {
+        "lang": ["candrakanta # Assamese University_of_Gauhati","berntsen # Marathi Berntsen","molesworth # Marathi Molesworth","tulpule # Marathi Tulpule","vaze # Marathi Vaze","macalister # Rajasthani Macalister","barker # Baluchi Barker","collett # Baluchi Collett","dames-sketch # Baluchi Dames-Sketch","dames-textbook # Baluchi Dames-Text-book","mumtaz # Baluchi Mumtaz Ahmad","grierson # Kashmiri Grierson","schmidt # Nepali Schmidt","turner # Nepali Turner","apte # Sanskrit Apte","macdonell # Sanskrit Macdonell","biswas-bangala # Bengali Biswas-Bangala","mewaram # Sindhi Mewaram","praharaj # Oriya Praharaj","carter # Sinhala Carter","lorrain # Lushai Lorrain","pali # Pali Text Society","fabricius # Tamil Fabricius","kadirvelu # Tamil Kadirvelu_Pillai","mcalpin # Tamil McAlpin","tamil-lex # Tamil_Lexicon","winslow # Tamil Winslow","singh # Panjabi Singh","brown # Telugu Brown-1903","gwynn # Telugu Gwynn","gundert # Malayalam Gundert","raverty # Pashto Raverty","bahri # Hindi Bahri","caturvedi # Hindi Caturvedi","dasa-hindi # Hindi Dasa-Hindi","hayyim # Persian Hayyim","steingass # Persian Steingass","fallon # Urdu Fallon","platts # Urdu Platts","shakespear # Urdu Shakespear","burrow # Comparative Burrow","soas # Comparative Turner"],
+        "title": "DSAL (Digital Dict. of South Asia)",
+        "rank": 36
+    },
+    "treccani": {
+        "lang": ["Vocabolario # ","SinCon # Sinonimi e Contrari","Enciclopedia # ","Crusca # Accademia della Crusca (17th-20th)"],
+        "title": "Treccani",
+        "rank": 37
+    },
+    "sapere": {
+        "lang": ["Italiano # dizionaro","Sinonimi # dizionaro","Contrari # dizionaro","Italiano-Inglese # traduzioni","Italiano-Francese # traduzioni","Italiano-Tedesco # traduzioni","Italiano-Spagnolo # traduzioni","Italiano-Portoghese # traduzioni","Italiano-Polacco # traduzioni","Italiano-Albanese # traduzioni","Italiano-Turco # traduzioni","Italiano-Filippino # traduzioni","Italiano-Latino # traduzioni","Inglese-Italiano # traduzioni","Francese-Italiano # traduzioni","Tedesco-Italiano # traduzioni","Spagnolo-Italiano # traduzioni","Portoghese-Italiano # traduzioni","Polacco-Italiano # traduzioni","Albanese-Italiano # traduzioni","Turco-Italiano # traduzioni","Filippino-Italiano # traduzioni","latino-italiano # traduzioni"],
+        "title": "Sapere",
+        "rank": 38
+    },
+    "corriere": {
+        "lang": ["SabCol # dizionaro (Sabatini-Coletti)","SinCon # sinonimi et contrari (Rizzoli)","Citazioni # Tra virgolette (Zanichelli)","ModiDiDire # Dizionario dei Modi di Dire (Hoepli)","NuoMau # (Nuovo De Mauro)","InIt # Inglese Italiano (Sansoni)","ItIn # Italiano Inglese (Sansoni)","ItSp # Italiano Spagnolo (Zanichelli)","SpIt # Spagnolo Italiano (Zanichelli)","FrIt # Francese Italiano (Zanichelli)","ItFr # Italiano Francese (Zanichelli)","ItTe # Italiano Tedesco (Sansoni)","TeIt # Tedesco Italiano (Sansoni)"],
+        "title": "Corriere",
+        "rank": 39
+    },
+    "jmdict":{
+        "lang": ["JMDict # Japanese-Multilingual dictionary","WebLio # Japanese-English dictionary"],
+        "title": "JMDict",
+        "rank": 40        
+    },
+    "notes": {
+        "lang": [" # "],
+        "title": "Notes",
+        "rank": 41
+    }  
+}

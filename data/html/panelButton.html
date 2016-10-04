@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="../css/panelButton.css" />
+</head>
+
+<body id="page" class="">
+    <div id="o-wrapper" class="o-wrapper">
+        <div class="c-buttons">
+            <button id="c-button--push-right" class="c-button">?</button>
+        </div>
+        <div id="container">
+            <div id="main_tab">
+                <div id="titlek">
+                    <h2 id="dicoTitle"></h2>
+                </div>
+                <div id="langTitle"></div>
+                <div class="ui-widget">
+                    <input type="text" id="tags" name="langpair" size="19" placeholder="language, dictionary, thesaurus" class="typeahead">
+                </div>
+                <div id="container-list">
+                    <ol id="sortable"></ol>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="c-menu--push-right" class="c-menu c-menu--push-right">
+        <button class="c-menu__close"> &rarr;</button>
+        <ul>
+            <li id="hotkeysConfig1">
+                Start a search
+                <br>
+                <select id="modifier">
+                    <option name="modifier" id="modifier--ctrl" value="ctrl">Ctrl</option>
+                    <option name="modifier" id="modifier--alt" value="alt">Alt </option>
+                    <option name="modifier" id="modifier--shift" value="shift">Shift </option>
+                    <option name="modifier" id="modifier--meta" value="meta">Cmd </option>
+                    <option name="modifier" id="modifier--a" value="a"> A </option>
+                    <option name="modifier" id="modifier--q" value="q"> Q </option>
+                    <option name="modifier" id="modifier--s" value="s"> S </option>
+                    <option name="modifier" id="modifier--t" value="t"> T </option>
+                    <option name="modifier" id="modifier--z" value="s"> Z </option>
+                    <option name="modifier" id="modifier--^" value="^"> ^ </option>
+                    <option name="modifier" id="modifier--<" value="<">
+                        < </option>
+                            <option name="modifier" id="modifier--none" value="none">None </option>
+                </select>
+                +
+                <select id="selection">
+                    <option name="selection" id="selection--mouseup" value="mouseup">Select</option>
+                    <option name="selection" id="selection--dblclick" value="dblclick">Dble-click </option>
+                </select>
+            </li>
+            <li id="hotkeysConfig2">
+                Launch a console
+                <select id="console">
+                    <option name="console" id="console--F8" value="F8">F8</option>
+                    <option name="console" id="console--F9" value="F9">F9 </option>
+                    <option name="console" id="console--None" value="None">None </option>
+                </select>
+            </li>
+            <li id="hotkeysConfig3">
+                Service detect language TTS
+                <select id="languageDetectionWebService">
+                    <option name="languageDetectionWebService" id="languageDetectionWebService--googletranslate" value="googletranslate">google translate</option>
+                    <option name="languageDetectionWebService" id="languageDetectionWebService--detectLanguageCom" value="detectLanguageCom">detectlanguage.com </option>
+                    <option name="languageDetectionWebService" id="languageDetectionWebService--systran" value="systran">Systran </option>
+                    <option name="languageDetectionWebService" id="languageDetectionWebService--manual" value="manual"> Manual </option>
+                </select>
+            </li>
+            <li id="hotkeysConfig4">
+                Show popup icons
+                <select id="popupIcons">
+                    <option name="popupIcons" id="popupIcons--true" value="true">true</option>
+                    <option name="popupIcons" id="popupIcons--false" value="false">false </option>
+                </select>
+            </li>
+            <li id="hotkeysConfig5">
+                Show context menu
+                <select id="showContextMenu">
+                    <option name="showContextMenu" id="showContextMenu--true" value="true">true</option>
+                    <option name="showContextMenu" id="showContextMenu--false" value="false">false </option>
+                </select>
+            </li>
+            <li id="hotkeysConfig6">
+                Ennable notes
+                <select id="showNote">
+                    <option name="showNote" id="showNote--true" value="true">true</option>
+                    <option name="showNote" id="showNote--false" value="false">false </option>
+                </select>
+            </li>
+            <li id="consolePosition">
+                Console position (top * left, %)
+                <br>
+                <input type="number" id="top" name="top" min="10" max="200" value="109" placeholder="Top">
+                <input type="number" id="left" name="left" min="1" max="200" value="1" placeholder="Left">
+            </li>
+        </ul>
+    </div>
+    <div id="c-mask" class="c-mask"></div>
+</body>
+
+</html>
